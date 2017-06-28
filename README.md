@@ -3,7 +3,7 @@
 ### Overview
 In this assignment, I built a professional portfolio site using HTML/CSS and the below specification guide.
 
-### Specifcations
+### Specifications
 
 1. Colors _Pro-tip: Use the [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) Chrome extension to find the colors used on web pages._
 
